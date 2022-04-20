@@ -224,9 +224,9 @@ class TestDetailHotelu_C(unittest.TestCase):
             wait.until(EC.visibility_of(dopravaBox))
             self.driver.execute_script("arguments[0].click();", dopravaBox)
             try:
-                dopravaBrno = self.driver.find_element_by_xpath(
-                    "//*[@data-value='4305']")  ##natvrdo brno, no list shenanigans
-                self.driver.execute_script("arguments[0].click();", dopravaBrno)
+                dopravaKosice = self.driver.find_element_by_xpath(
+                    "//*[@data-value='1837']")  ##natvrdo brno, no list shenanigans
+                self.driver.execute_script("arguments[0].click();", dopravaKosice)
 
                 time.sleep(0.5)
                 try:
@@ -296,15 +296,15 @@ class TestDetailHotelu_C(unittest.TestCase):
             sendEmail(msg)
         y = 1
         for _ in pocetZobrazenychTerminu:
-            assert odletyTerminy[y].text == "Brno"
-            if odletyTerminy[y].text == "Brno":  ##tady je nutny pricitat +2 protoze je tam 41 results (s tim ze jeden
+            assert odletyTerminy[y].text == "Košice"
+            if odletyTerminy[y].text == "Košice":  ##tady je nutny pricitat +2 protoze je tam 41 results (s tim ze jeden
                 ##je "odlet"), kazdy sudy cislo je mezera/blank space for some reason
                 ##print(odletyTerminy[y].text)
                 y = y + 2
             else:
                 url = self.driver.current_url
                 ##print(odletyTerminy[y].text)
-                msg = "na detailu jsem vyfiltroval odlet na brno ale pry to nesedi říká python " + url
+                msg = "na detailu jsem vyfiltroval odlet na Košice ale pry to nesedi říká python " + url
                 sendEmail(msg)
                 y = y + 2
 
