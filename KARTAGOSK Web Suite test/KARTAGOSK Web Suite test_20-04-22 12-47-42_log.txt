@@ -1,0 +1,129 @@
+2022-04-20 12:47:42.716654 : 
+                             
+                             
+2022-04-20 12:47:42.716654 : ====== WebDriver manager ======
+                             
+2022-04-20 12:47:42.739608 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 12:47:42.739608 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 12:47:42.832586 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 12:47:47.254476 : <selenium.webdriver.remote.webelement.WebElement (session="c53056bb13751e4554ca236ae0fd1663", element="e0977e4d-1574-4a1a-bdec-5dc63ef446c6")>
+2022-04-20 12:48:15.077931 : nenasle se exponea banner
+2022-04-20 12:48:15.130918 : gridy jdou videt
+2022-04-20 12:48:15.139913 : gridy jdou videt
+2022-04-20 12:48:15.147910 : gridy jdou videt
+2022-04-20 12:48:15.156222 : gridy jdou videt
+2022-04-20 12:48:15.163221 : gridy jdou videt
+2022-04-20 12:48:15.171217 : gridy jdou videt
+2022-04-20 12:48:15.179215 : gridy jdou videt
+2022-04-20 12:48:15.187073 : gridy jdou videt
+2022-04-20 12:48:15.196078 : gridy jdou videt
+2022-04-20 12:48:15.204089 : gridy jdou videt
+2022-04-20 12:48:15.212077 : gridy jdou videt
+2022-04-20 12:48:15.219066 : gridy jdou videt
+2022-04-20 12:48:15.227063 : gridy jdou videt
+2022-04-20 12:48:15.236060 : gridy jdou videt
+2022-04-20 12:48:15.244068 : gridy jdou videt
+2022-04-20 12:48:15.252693 : gridy jdou videt
+2022-04-20 12:48:15.260648 : gridy jdou videt
+2022-04-20 12:48:15.268650 : gridy jdou videt
+2022-04-20 12:48:15.276642 : gridy jdou videt
+2022-04-20 12:48:15.284309 : gridy jdou videt
+2022-04-20 12:48:15.292307 : gridy jdou videt
+2022-04-20 12:48:15.332299 : content jdou videt
+2022-04-20 12:48:15.340779 : content jdou videt
+2022-04-20 12:48:15.349170 : content jdou videt
+2022-04-20 12:48:15.357330 : content jdou videt
+2022-04-20 12:48:15.365461 : content jdou videt
+2022-04-20 12:48:15.373466 : content jdou videt
+2022-04-20 12:48:15.381458 : content jdou videt
+2022-04-20 12:48:15.389455 : content jdou videt
+2022-04-20 12:48:15.397453 : content jdou videt
+2022-04-20 12:48:15.405450 : content jdou videt
+2022-04-20 12:48:15.413448 : content jdou videt
+2022-04-20 12:48:15.420993 : content jdou videt
+2022-04-20 12:48:15.428991 : content jdou videt
+2022-04-20 12:48:15.436988 : content jdou videt
+2022-04-20 12:48:15.445985 : content jdou videt
+2022-04-20 12:48:15.453884 : content jdou videt
+2022-04-20 12:48:15.461884 : content jdou videt
+2022-04-20 12:48:15.470883 : content jdou videt
+2022-04-20 12:48:15.478880 : content jdou videt
+2022-04-20 12:48:15.486878 : content jdou videt
+2022-04-20 12:48:15.494886 : content jdou videt
+2022-04-20 12:48:17.755093 : 
+                             
+                             
+2022-04-20 12:48:17.755093 : ====== WebDriver manager ======
+                             
+2022-04-20 12:48:17.780086 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 12:48:17.780086 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 12:48:17.844066 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 12:48:26.781559 : <selenium.webdriver.remote.webelement.WebElement (session="f90c946572627f0d9ef1193f36a6ecfe", element="b5e884b5-78bc-4ffb-9478-2e0e479123d8")>
+2022-04-20 12:48:26.990492 : <bound method WebElement.is_displayed of <selenium.webdriver.remote.webelement.WebElement (session="f90c946572627f0d9ef1193f36a6ecfe", element="8c73d175-8f73-4e9c-8b76-dad0b5782321")>>
+2022-04-20 12:48:29.767595 : 
+                             
+                             
+2022-04-20 12:48:29.767595 : ====== WebDriver manager ======
+                             
+2022-04-20 12:48:29.795586 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 12:48:29.795586 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 12:48:29.852568 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 12:48:33.579526 : None
+2022-04-20 12:48:33.579526 : consent pass
+2022-04-20 12:49:01.343006 : nenasle se exponea banner
+2022-04-20 12:49:01.547219 : its ok
+2022-04-20 12:49:03.780500 : 
+                             
+                             
+2022-04-20 12:49:03.780500 : ====== WebDriver manager ======
+                             
+2022-04-20 12:49:03.831480 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 12:49:03.831480 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 12:49:03.891529 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 12:49:07.713763 : None
+2022-04-20 12:49:07.713763 : consent pass
+2022-04-20 12:49:35.416629 : nenasle se exponea banner
+2022-04-20 12:49:35.820516 : 
+2022-04-20 12:49:38.363288 : ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:38.363288 : ok
+2022-04-20 12:49:41.681466 : 
+                             
+                             
+2022-04-20 12:49:41.681466 : ====== WebDriver manager ======
+                             
+2022-04-20 12:49:41.705458 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 12:49:41.705458 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 12:49:41.770110 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 12:49:46.021417 : None
+2022-04-20 12:49:46.022417 : consent pass
+2022-04-20 12:50:13.740540 : nenasle se exponea banner
