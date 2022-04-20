@@ -1,0 +1,747 @@
+2022-04-20 15:05:40.331502 : 
+                             
+                             
+2022-04-20 15:05:40.331502 : ====== WebDriver manager ======
+                             
+2022-04-20 15:05:40.354494 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:05:40.354494 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:05:40.434901 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:06:04.060276 : <selenium.webdriver.remote.webelement.WebElement (session="909a404a97ca5ac8d5d88bc5e7cfbadd", element="08c296be-c3ea-4839-9e4d-2eef2b04610d")>
+2022-04-20 15:06:31.874885 : nenasle se exponea banner
+2022-04-20 15:06:31.924870 : gridy jdou videt
+2022-04-20 15:06:31.932880 : gridy jdou videt
+2022-04-20 15:06:31.941874 : gridy jdou videt
+2022-04-20 15:06:31.949862 : gridy jdou videt
+2022-04-20 15:06:31.957859 : gridy jdou videt
+2022-04-20 15:06:31.966856 : gridy jdou videt
+2022-04-20 15:06:31.974867 : gridy jdou videt
+2022-04-20 15:06:31.983851 : gridy jdou videt
+2022-04-20 15:06:31.993852 : gridy jdou videt
+2022-04-20 15:06:32.002863 : gridy jdou videt
+2022-04-20 15:06:32.010860 : gridy jdou videt
+2022-04-20 15:06:32.018840 : gridy jdou videt
+2022-04-20 15:06:32.026840 : gridy jdou videt
+2022-04-20 15:06:32.034835 : gridy jdou videt
+2022-04-20 15:06:32.042832 : gridy jdou videt
+2022-04-20 15:06:32.052841 : gridy jdou videt
+2022-04-20 15:06:32.060827 : gridy jdou videt
+2022-04-20 15:06:32.069823 : gridy jdou videt
+2022-04-20 15:06:32.078838 : gridy jdou videt
+2022-04-20 15:06:32.086817 : gridy jdou videt
+2022-04-20 15:06:32.095814 : gridy jdou videt
+2022-04-20 15:06:32.148798 : content jdou videt
+2022-04-20 15:06:32.156796 : content jdou videt
+2022-04-20 15:06:32.164793 : content jdou videt
+2022-04-20 15:06:32.190784 : content jdou videt
+2022-04-20 15:06:32.201781 : content jdou videt
+2022-04-20 15:06:32.214778 : content jdou videt
+2022-04-20 15:06:32.224775 : content jdou videt
+2022-04-20 15:06:32.233770 : content jdou videt
+2022-04-20 15:06:32.241768 : content jdou videt
+2022-04-20 15:06:32.251765 : content jdou videt
+2022-04-20 15:06:32.274758 : content jdou videt
+2022-04-20 15:06:32.311746 : content jdou videt
+2022-04-20 15:06:32.322742 : content jdou videt
+2022-04-20 15:06:32.336737 : content jdou videt
+2022-04-20 15:06:32.344735 : content jdou videt
+2022-04-20 15:06:32.352732 : content jdou videt
+2022-04-20 15:06:32.367728 : content jdou videt
+2022-04-20 15:06:32.376725 : content jdou videt
+2022-04-20 15:06:32.385722 : content jdou videt
+2022-04-20 15:06:32.397718 : content jdou videt
+2022-04-20 15:06:32.405716 : content jdou videt
+2022-04-20 15:06:35.783633 : 
+                             
+                             
+2022-04-20 15:06:35.783633 : ====== WebDriver manager ======
+                             
+2022-04-20 15:06:35.820621 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:06:35.820621 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:06:35.882601 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:06:49.373506 : <selenium.webdriver.remote.webelement.WebElement (session="fb394a8527c88208203073a5e47ef4ed", element="b4440105-f2d0-4f56-ac66-fbeadc7f970d")>
+2022-04-20 15:06:49.772377 : <bound method WebElement.is_displayed of <selenium.webdriver.remote.webelement.WebElement (session="fb394a8527c88208203073a5e47ef4ed", element="ce510419-3c07-4b09-a159-dfd1b7e52dd0")>>
+2022-04-20 15:06:52.930782 : 
+                             
+                             
+2022-04-20 15:06:52.930782 : ====== WebDriver manager ======
+                             
+2022-04-20 15:06:52.967771 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:06:52.967771 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:06:53.029752 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:07:00.987307 : <selenium.webdriver.remote.webelement.WebElement (session="536998ff9ab5453809cb60a1bcbccb28", element="9b8b812a-4ff0-49e7-b822-f6bf96aa82db")>
+2022-04-20 15:07:28.853482 : nenasle se exponea banner
+2022-04-20 15:07:29.144380 : its ok
+2022-04-20 15:07:31.390221 : 
+                             
+                             
+2022-04-20 15:07:31.390221 : ====== WebDriver manager ======
+                             
+2022-04-20 15:07:31.411232 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:07:31.411232 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:07:31.497187 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:07:39.773032 : <selenium.webdriver.remote.webelement.WebElement (session="f3b5954d30e9275c92440ba305e96a43", element="73ac85c9-ba10-4973-a172-7c5d4e4c41e8")>
+2022-04-20 15:08:07.750949 : nenasle se exponea banner
+2022-04-20 15:08:08.280779 : All inclusive
+2022-04-20 15:08:10.418313 : ['All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive']
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:10.418313 : ok
+2022-04-20 15:08:13.681835 : 
+                             
+                             
+2022-04-20 15:08:13.681835 : ====== WebDriver manager ======
+                             
+2022-04-20 15:08:13.708826 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:08:13.708826 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:08:13.768874 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:08:21.696768 : <selenium.webdriver.remote.webelement.WebElement (session="0a988b4b6a93ca5489a8c0e3de607ac6", element="9432f691-b3d7-40b1-8ecc-ceb0402d3942")>
+2022-04-20 15:08:49.614511 : nenasle se exponea banner
+2022-04-20 15:08:55.667015 : 
+                             
+                             
+2022-04-20 15:08:55.667015 : ====== WebDriver manager ======
+                             
+2022-04-20 15:08:55.695007 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:08:55.695007 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:08:55.756003 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:09:03.181836 : <selenium.webdriver.remote.webelement.WebElement (session="bf8b8807706091ae30072363bdb329dd", element="a67ead9a-70db-412f-96dd-446d1a5199ea")>
+2022-04-20 15:09:04.118370 : benefit item
+2022-04-20 15:09:04.128366 : benefit item
+2022-04-20 15:09:04.140362 : benefit item
+2022-04-20 15:09:04.279317 : grind container
+2022-04-20 15:09:04.290314 : grind container
+2022-04-20 15:09:04.299312 : grind container
+2022-04-20 15:09:04.307308 : grind container
+2022-04-20 15:09:04.321304 : grind container
+2022-04-20 15:09:04.329301 : grind container
+2022-04-20 15:09:04.339298 : grind container
+2022-04-20 15:09:04.347296 : grind container
+2022-04-20 15:09:04.356293 : grind container
+2022-04-20 15:09:04.364290 : grind container
+2022-04-20 15:09:04.374288 : grind container
+2022-04-20 15:09:04.383284 : grind container
+2022-04-20 15:09:04.393281 : grind container
+2022-04-20 15:09:04.403278 : grind container
+2022-04-20 15:09:04.411275 : grind container
+2022-04-20 15:09:04.420272 : grind container
+2022-04-20 15:09:04.560543 : tile img
+2022-04-20 15:09:04.570540 : tile img
+2022-04-20 15:09:04.577539 : tile img
+2022-04-20 15:09:04.587535 : tile img
+2022-04-20 15:09:04.595532 : tile img
+2022-04-20 15:09:04.604529 : tile img
+2022-04-20 15:09:04.612526 : tile img
+2022-04-20 15:09:04.621523 : tile img
+2022-04-20 15:09:04.629521 : tile img
+2022-04-20 15:09:04.639517 : tile img
+2022-04-20 15:09:04.646515 : tile img
+2022-04-20 15:09:04.656513 : tile img
+2022-04-20 15:09:04.665512 : tile img
+2022-04-20 15:09:08.126907 : 
+                             
+                             
+2022-04-20 15:09:08.126907 : ====== WebDriver manager ======
+                             
+2022-04-20 15:09:08.152899 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:09:08.152899 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:09:08.214878 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:09:17.206888 : <selenium.webdriver.remote.webelement.WebElement (session="8954854ba315dca49337e97c658b0673", element="4055e058-5a06-4618-9b04-5a57ef5c3598")>
+2022-04-20 15:09:21.213356 : gridy jdou videt
+2022-04-20 15:09:21.256342 : gridy jdou videt
+2022-04-20 15:09:21.266342 : gridy jdou videt
+2022-04-20 15:09:21.275336 : gridy jdou videt
+2022-04-20 15:09:21.285333 : gridy jdou videt
+2022-04-20 15:09:21.293330 : gridy jdou videt
+2022-04-20 15:09:21.337317 : content jdou videt
+2022-04-20 15:09:21.345314 : content jdou videt
+2022-04-20 15:09:21.356310 : content jdou videt
+2022-04-20 15:09:21.364307 : content jdou videt
+2022-04-20 15:09:21.375304 : content jdou videt
+2022-04-20 15:09:21.385301 : content jdou videt
+2022-04-20 15:11:08.272827 : 
+                             
+                             
+2022-04-20 15:11:08.273827 : ====== WebDriver manager ======
+                             
+2022-04-20 15:11:08.298818 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:11:08.298818 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:11:08.358801 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:11:15.262800 : <selenium.webdriver.remote.webelement.WebElement (session="da4940260f01593dd5767f23a15b2440", element="32593fbc-3af4-4a69-a560-8fd9aa004e29")>
+2022-04-20 15:11:20.110798 : 
+                             
+                             
+2022-04-20 15:11:20.110798 : ====== WebDriver manager ======
+                             
+2022-04-20 15:11:20.134777 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:11:20.135790 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:11:20.196757 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:11:29.605717 : <selenium.webdriver.remote.webelement.WebElement (session="19676effa564c7deb8161b55ba67c540", element="9389f223-fcaa-4170-b528-07902061dd71")>
+2022-04-20 15:11:34.312142 : 
+                             
+                             
+2022-04-20 15:11:34.312142 : ====== WebDriver manager ======
+                             
+2022-04-20 15:11:34.340133 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:11:34.340133 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:11:34.400101 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:11:43.793869 : <selenium.webdriver.remote.webelement.WebElement (session="1687e3b37b18f0b37988350a7040c7b1", element="61085cc9-9a0e-4231-a45c-79292b82d99d")>
+2022-04-20 15:11:49.515009 : 
+                             
+                             
+2022-04-20 15:11:49.515009 : ====== WebDriver manager ======
+                             
+2022-04-20 15:11:49.535973 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:11:49.535973 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:11:49.594961 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:11:56.524115 : <selenium.webdriver.remote.webelement.WebElement (session="85d7d6cab056b0aa7cee43f70f99e083", element="89daf18e-617d-4f29-88a2-0cf5d8df6c3d")>
+2022-04-20 15:12:24.480958 : basic info 
+2022-04-20 15:12:24.490953 : basic info 
+2022-04-20 15:12:24.502950 : basic info 
+2022-04-20 15:12:24.511946 : basic info 
+2022-04-20 15:12:24.521944 : basic info 
+2022-04-20 15:12:24.532940 : basic info 
+2022-04-20 15:12:24.541937 : basic info 
+2022-04-20 15:12:24.550935 : basic info 
+2022-04-20 15:12:24.561932 : basic info 
+2022-04-20 15:12:24.573927 : basic info 
+2022-04-20 15:12:24.582924 : basic info 
+2022-04-20 15:12:24.591921 : basic info 
+2022-04-20 15:12:24.602918 : basic info 
+2022-04-20 15:12:24.611915 : basic info 
+2022-04-20 15:12:24.645904 : basic info 
+2022-04-20 15:12:24.689890 : boxiky
+2022-04-20 15:12:24.698887 : boxiky
+2022-04-20 15:12:24.711882 : boxiky
+2022-04-20 15:12:24.719880 : boxiky
+2022-04-20 15:12:24.727877 : boxiky
+2022-04-20 15:12:24.735875 : boxiky
+2022-04-20 15:12:24.744872 : boxiky
+2022-04-20 15:12:24.752869 : boxiky
+2022-04-20 15:12:24.760866 : boxiky
+2022-04-20 15:12:24.768864 : boxiky
+2022-04-20 15:12:24.777861 : boxiky
+2022-04-20 15:12:24.786859 : boxiky
+2022-04-20 15:12:24.793856 : boxiky
+2022-04-20 15:12:24.801854 : boxiky
+2022-04-20 15:12:24.810850 : boxiky
+2022-04-20 15:12:24.817849 : boxiky
+2022-04-20 15:12:24.828844 : boxiky
+2022-04-20 15:12:24.838842 : boxiky
+2022-04-20 15:12:24.849838 : boxiky
+2022-04-20 15:12:24.857836 : boxiky
+2022-04-20 15:12:24.865834 : boxiky
+2022-04-20 15:12:24.876829 : boxiky
+2022-04-20 15:12:24.887831 : boxiky
+2022-04-20 15:12:24.914817 : boxiky
+2022-04-20 15:12:24.940810 : boxiky
+2022-04-20 15:12:24.948807 : boxiky
+2022-04-20 15:12:24.961803 : boxiky
+2022-04-20 15:12:24.973799 : boxiky
+2022-04-20 15:12:24.982796 : boxiky
+2022-04-20 15:12:24.996791 : boxiky
+2022-04-20 15:12:27.370019 : 
+                             
+                             
+2022-04-20 15:12:27.370019 : ====== WebDriver manager ======
+                             
+2022-04-20 15:12:27.394011 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:12:27.394011 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:12:27.454992 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:12:38.697881 : <selenium.webdriver.remote.webelement.WebElement (session="8ee7e5b79e73aadb7335c119ccf33414", element="3e3f404e-eb59-41ad-8c0a-f94aa287912c")>
+2022-04-20 15:12:42.433120 : 
+                             
+                             
+2022-04-20 15:12:42.433120 : ====== WebDriver manager ======
+                             
+2022-04-20 15:12:42.460120 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:12:42.460120 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:12:42.543204 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:12:52.790190 : <selenium.webdriver.remote.webelement.WebElement (session="ce695c86eedae0bcf08bc059d11ec86c", element="4b504233-c6c6-44fa-9fbd-87b14ee56d3f")>
+2022-04-20 15:13:21.747496 : nenasle se exponea banner
+2022-04-20 15:13:34.611858 : Razeni od nejlevnejsiho je spatne
+2022-04-20 15:13:34.611858 : [119, 123, 129, 129, 131, 135, 133, 141, 139, 142, 143, 146, 146, 147, 147, 150, 151, 154, 155, 155]
+2022-04-20 15:13:34.611858 : [119, 123, 129, 129, 131, 133, 135, 139, 141, 142, 143, 146, 146, 147, 147, 150, 151, 154, 155, 155]
+2022-04-20 15:13:36.819938 : 
+                             
+                             
+2022-04-20 15:13:36.819938 : ====== WebDriver manager ======
+                             
+2022-04-20 15:13:36.844931 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:13:36.844931 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:13:36.903910 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:13:46.700072 : <selenium.webdriver.remote.webelement.WebElement (session="16962859dfe4abfd4e2d5a0ef806c631", element="b9604b5c-c93c-4b2d-8bed-ebfc643e65af")>
+2022-04-20 15:13:52.815314 : Razeni od nejdrazshio je OK
+2022-04-20 15:13:52.815314 : [393, 353, 339, 337, 331, 327, 325, 307, 287, 286, 279, 265, 263, 262, 261, 259, 257, 255, 254, 249]
+2022-04-20 15:13:52.815314 : [393, 353, 339, 337, 331, 327, 325, 307, 287, 286, 279, 265, 263, 262, 261, 259, 257, 255, 254, 249]
+2022-04-20 15:13:55.067989 : 
+                             
+                             
+2022-04-20 15:13:55.067989 : ====== WebDriver manager ======
+                             
+2022-04-20 15:13:55.092966 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:13:55.092966 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:13:55.153960 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:14:03.631812 : <selenium.webdriver.remote.webelement.WebElement (session="ef5a16ab71db31ff3ce39d67576e1f4f", element="c7a20c10-3f06-4c4a-9752-fe2ffee5b204")>
+2022-04-20 15:14:32.385749 : nenasle se exponea banner
+2022-04-20 15:15:30.666948 : nenasel se large kolecko
+2022-04-20 15:15:58.229919 : 
+                             
+                             
+2022-04-20 15:15:58.229919 : ====== WebDriver manager ======
+                             
+2022-04-20 15:15:58.252916 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:15:58.252916 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:15:58.314892 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:16:08.323001 : <selenium.webdriver.remote.webelement.WebElement (session="06939a4c8bfc2f592116290c9bbb3b7f", element="202cd000-1702-40e1-bf1d-57c45890ef8a")>
+2022-04-20 15:16:37.565229 : nenasle se exponea banner
+2022-04-20 15:16:42.396183 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ok
+2022-04-20 15:16:42.397182 : ['All inclusive', 'Soft all inclusive', 'Soft all inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'Soft all inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive', 'All inclusive']
+2022-04-20 15:16:52.651848 : 
+                             
+                             
+2022-04-20 15:16:52.651848 : ====== WebDriver manager ======
+                             
+2022-04-20 15:16:52.684818 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:16:52.684818 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:16:52.740833 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:17:02.803145 : <selenium.webdriver.remote.webelement.WebElement (session="c508cfa6e4a0ff5a5304cd4cef888e7c", element="ecfc5cf3-1044-45b0-a36c-7a2934250859")>
+2022-04-20 15:17:31.508509 : nenasle se exponea banner
+2022-04-20 15:17:31.538500 : |||||HOTEL CISLO|||||||
+2022-04-20 15:17:31.538500 : 1
+2022-04-20 15:17:31.538500 : 1
+2022-04-20 15:17:31.538500 : 1
+2022-04-20 15:17:31.759428 : 726 €
+2022-04-20 15:18:01.683719 : nenasle se exponea banner
+2022-04-20 15:18:02.827689 : 726 €
+2022-04-20 15:18:02.827689 : pokoje sedi srl vs detail
+2022-04-20 15:18:02.827689 : stravy sedi srl vs detail
+2022-04-20 15:18:02.827689 : ceny all sedi srl vs detail
+2022-04-20 15:18:02.827689 :  cena adult sedi srl vs detail
+2022-04-20 15:18:02.857680 : 1
+2022-04-20 15:18:02.857680 : 2
+2022-04-20 15:18:02.857680 : |||||HOTEL CISLO|||||||
+2022-04-20 15:18:02.857680 : 2
+2022-04-20 15:18:02.858681 : 2
+2022-04-20 15:18:02.858681 : 2
+2022-04-20 15:18:03.057615 : 685 €
+2022-04-20 15:18:31.789558 : nenasle se exponea banner
+2022-04-20 15:18:32.900545 : 685 €
+2022-04-20 15:18:32.900545 : pokoje sedi srl vs detail
+2022-04-20 15:18:32.900545 : stravy sedi srl vs detail
+2022-04-20 15:18:32.900545 : ceny all sedi srl vs detail
+2022-04-20 15:18:32.900545 :  cena adult sedi srl vs detail
+2022-04-20 15:18:32.920539 : 2
+2022-04-20 15:18:32.920539 : 3
+2022-04-20 15:18:32.920539 : |||||HOTEL CISLO|||||||
+2022-04-20 15:18:32.920539 : 3
+2022-04-20 15:18:32.920539 : 3
+2022-04-20 15:18:32.920539 : 3
+2022-04-20 15:18:33.111478 : 586 €
+2022-04-20 15:19:03.748651 : nenasle se exponea banner
+2022-04-20 15:19:04.866356 : 586 €
+2022-04-20 15:19:04.866356 : pokoje sedi srl vs detail
+2022-04-20 15:19:04.866356 : stravy sedi srl vs detail
+2022-04-20 15:19:04.866356 : ceny all sedi srl vs detail
+2022-04-20 15:19:04.866356 :  cena adult sedi srl vs detail
+2022-04-20 15:19:04.884333 : 3
+2022-04-20 15:19:04.884333 : 4
+2022-04-20 15:19:04.884333 : |||||HOTEL CISLO|||||||
+2022-04-20 15:19:04.884333 : 4
+2022-04-20 15:19:04.884333 : 4
+2022-04-20 15:19:04.884333 : 4
+2022-04-20 15:19:05.039684 : 446 €
+2022-04-20 15:19:35.987682 : nenasle se exponea banner
+2022-04-20 15:19:37.099848 : 446 €
+2022-04-20 15:19:37.099848 : pokoje sedi srl vs detail
+2022-04-20 15:19:37.099848 : stravy sedi srl vs detail
+2022-04-20 15:19:37.099848 : ceny all sedi srl vs detail
+2022-04-20 15:19:37.099848 :  cena adult sedi srl vs detail
+2022-04-20 15:19:37.119842 : 4
+2022-04-20 15:19:37.119842 : 5
+2022-04-20 15:19:37.119842 : |||||HOTEL CISLO|||||||
+2022-04-20 15:19:37.119842 : 5
+2022-04-20 15:19:37.119842 : 5
+2022-04-20 15:19:37.119842 : 5
+2022-04-20 15:19:37.320778 : 466 €
+2022-04-20 15:20:08.815755 : nenasle se exponea banner
+2022-04-20 15:20:09.931837 : 466 €
+2022-04-20 15:20:09.931837 : pokoje sedi srl vs detail
+2022-04-20 15:20:09.931837 : stravy sedi srl vs detail
+2022-04-20 15:20:09.931837 : ceny all sedi srl vs detail
+2022-04-20 15:20:09.931837 :  cena adult sedi srl vs detail
+2022-04-20 15:20:09.951831 : 5
+2022-04-20 15:20:09.951831 : 6
+2022-04-20 15:20:09.951831 : |||||HOTEL CISLO|||||||
+2022-04-20 15:20:09.951831 : 6
+2022-04-20 15:20:09.951831 : 6
+2022-04-20 15:20:09.951831 : 6
+2022-04-20 15:20:10.124776 : 481 €
+2022-04-20 15:20:39.718678 : nenasle se exponea banner
+2022-04-20 15:20:40.833483 : 481 €
+2022-04-20 15:20:40.833483 : pokoje sedi srl vs detail
+2022-04-20 15:20:40.833483 : stravy sedi srl vs detail
+2022-04-20 15:20:40.833483 : ceny all sedi srl vs detail
+2022-04-20 15:20:40.834478 :  cena adult sedi srl vs detail
+2022-04-20 15:20:40.853459 : 6
+2022-04-20 15:20:40.853459 : 7
+2022-04-20 15:20:40.853459 : |||||HOTEL CISLO|||||||
+2022-04-20 15:20:40.853459 : 7
+2022-04-20 15:20:40.853459 : 7
+2022-04-20 15:20:40.853459 : 7
+2022-04-20 15:20:41.017342 : 482 €
+2022-04-20 15:21:09.444938 : nenasle se exponea banner
+2022-04-20 15:21:10.548236 : 482 €
+2022-04-20 15:21:10.548236 : pokoje sedi srl vs detail
+2022-04-20 15:21:10.548236 : stravy sedi srl vs detail
+2022-04-20 15:21:10.548236 : ceny all sedi srl vs detail
+2022-04-20 15:21:10.548236 :  cena adult sedi srl vs detail
+2022-04-20 15:21:10.578227 : 7
+2022-04-20 15:21:10.578227 : 8
+2022-04-20 15:21:10.578227 : |||||HOTEL CISLO|||||||
+2022-04-20 15:21:10.578227 : 8
+2022-04-20 15:21:10.578227 : 8
+2022-04-20 15:21:10.578227 : 8
+2022-04-20 15:21:10.785161 : 506 €
+2022-04-20 15:21:40.331456 : nenasle se exponea banner
+2022-04-20 15:21:41.448117 : 506 €
+2022-04-20 15:21:41.448117 : pokoje sedi srl vs detail
+2022-04-20 15:21:41.448117 : stravy sedi srl vs detail
+2022-04-20 15:21:41.448117 : ceny all sedi srl vs detail
+2022-04-20 15:21:41.448117 :  cena adult sedi srl vs detail
+2022-04-20 15:21:41.470110 : 8
+2022-04-20 15:21:41.470110 : 9
+2022-04-20 15:21:41.471111 : |||||HOTEL CISLO|||||||
+2022-04-20 15:21:41.471111 : 9
+2022-04-20 15:21:41.471111 : 9
+2022-04-20 15:21:41.471111 : 9
+2022-04-20 15:21:41.656051 : 482 €
+2022-04-20 15:22:10.246584 : nenasle se exponea banner
+2022-04-20 15:22:11.360660 : 482 €
+2022-04-20 15:22:11.360660 : pokoje sedi srl vs detail
+2022-04-20 15:22:11.360660 : stravy sedi srl vs detail
+2022-04-20 15:22:11.360660 : ceny all sedi srl vs detail
+2022-04-20 15:22:11.360660 :  cena adult sedi srl vs detail
+2022-04-20 15:22:11.377655 : 9
+2022-04-20 15:22:11.377655 : 10
+2022-04-20 15:22:11.377655 : |||||HOTEL CISLO|||||||
+2022-04-20 15:22:11.377655 : 10
+2022-04-20 15:22:11.377655 : 10
+2022-04-20 15:22:11.377655 : 10
+2022-04-20 15:22:11.546600 : 506 €
+2022-04-20 15:22:39.986676 : nenasle se exponea banner
+2022-04-20 15:22:41.118362 : 506 €
+2022-04-20 15:22:41.118362 : pokoje sedi srl vs detail
+2022-04-20 15:22:41.118362 : stravy sedi srl vs detail
+2022-04-20 15:22:41.118362 : ceny all sedi srl vs detail
+2022-04-20 15:22:41.118362 :  cena adult sedi srl vs detail
+2022-04-20 15:22:41.176919 : 10
+2022-04-20 15:22:41.176919 : 11
+2022-04-20 15:22:41.176919 : |||||HOTEL CISLO|||||||
+2022-04-20 15:22:41.176919 : 11
+2022-04-20 15:22:41.176919 : 11
+2022-04-20 15:22:41.176919 : 11
+2022-04-20 15:22:41.342865 : 542 €
+2022-04-20 15:23:09.802677 : nenasle se exponea banner
+2022-04-20 15:23:10.991552 : 542 €
+2022-04-20 15:23:10.991552 : pokoje sedi srl vs detail
+2022-04-20 15:23:10.991552 : stravy sedi srl vs detail
+2022-04-20 15:23:10.991552 : ceny all sedi srl vs detail
+2022-04-20 15:23:10.991552 :  cena adult sedi srl vs detail
+2022-04-20 15:23:11.017534 : 11
+2022-04-20 15:23:11.017534 : 12
+2022-04-20 15:23:11.017534 : |||||HOTEL CISLO|||||||
+2022-04-20 15:23:11.017534 : 12
+2022-04-20 15:23:11.017534 : 12
+2022-04-20 15:23:11.017534 : 12
+2022-04-20 15:23:11.178482 : 546 €
+2022-04-20 15:23:39.477704 : nenasle se exponea banner
+2022-04-20 15:23:40.594860 : 546 €
+2022-04-20 15:23:40.594860 : pokoje sedi srl vs detail
+2022-04-20 15:23:40.594860 : stravy sedi srl vs detail
+2022-04-20 15:23:40.594860 : ceny all sedi srl vs detail
+2022-04-20 15:23:40.594860 :  cena adult sedi srl vs detail
+2022-04-20 15:23:40.619494 : 12
+2022-04-20 15:23:40.619494 : 13
+2022-04-20 15:23:40.619494 : |||||HOTEL CISLO|||||||
+2022-04-20 15:23:40.619494 : 13
+2022-04-20 15:23:40.619494 : 13
+2022-04-20 15:23:40.619494 : 13
+2022-04-20 15:23:40.771445 : 551 €
+2022-04-20 15:24:09.229507 : nenasle se exponea banner
+2022-04-20 15:24:10.370775 : 551 €
+2022-04-20 15:24:10.370775 : pokoje sedi srl vs detail
+2022-04-20 15:24:10.370775 : stravy sedi srl vs detail
+2022-04-20 15:24:10.370775 : ceny all sedi srl vs detail
+2022-04-20 15:24:10.370775 :  cena adult sedi srl vs detail
+2022-04-20 15:24:10.397762 : 13
+2022-04-20 15:24:10.397762 : 14
+2022-04-20 15:24:10.397762 : |||||HOTEL CISLO|||||||
+2022-04-20 15:24:10.397762 : 14
+2022-04-20 15:24:10.397762 : 14
+2022-04-20 15:24:10.397762 : 14
+2022-04-20 15:24:10.560503 : 552 €
+2022-04-20 15:24:40.830628 : nenasle se exponea banner
+2022-04-20 15:24:42.005205 : 552 €
+2022-04-20 15:24:42.005205 : pokoje sedi srl vs detail
+2022-04-20 15:24:42.005205 : stravy sedi srl vs detail
+2022-04-20 15:24:42.005205 : ceny all sedi srl vs detail
+2022-04-20 15:24:42.005205 :  cena adult sedi srl vs detail
+2022-04-20 15:24:42.028197 : 14
+2022-04-20 15:24:42.028197 : 15
+2022-04-20 15:24:42.028197 : |||||HOTEL CISLO|||||||
+2022-04-20 15:24:42.028197 : 15
+2022-04-20 15:24:42.028197 : 15
+2022-04-20 15:24:42.028197 : 15
+2022-04-20 15:24:42.186655 : 562 €
+2022-04-20 15:25:11.560508 : nenasle se exponea banner
+2022-04-20 15:25:12.732364 : 562 €
+2022-04-20 15:25:12.732364 : pokoje sedi srl vs detail
+2022-04-20 15:25:12.732364 : stravy sedi srl vs detail
+2022-04-20 15:25:12.732364 : ceny all sedi srl vs detail
+2022-04-20 15:25:12.732364 :  cena adult sedi srl vs detail
+2022-04-20 15:25:12.775371 : 15
+2022-04-20 15:25:12.775371 : 16
+2022-04-20 15:25:12.775371 : |||||HOTEL CISLO|||||||
+2022-04-20 15:25:12.775371 : 16
+2022-04-20 15:25:12.775371 : 16
+2022-04-20 15:25:12.775371 : 16
+2022-04-20 15:25:12.928745 : 571 €
+2022-04-20 15:25:41.093781 : nenasle se exponea banner
+2022-04-20 15:25:42.210633 : 571 €
+2022-04-20 15:25:42.210633 : pokoje sedi srl vs detail
+2022-04-20 15:25:42.210633 : stravy sedi srl vs detail
+2022-04-20 15:25:42.210633 : ceny all sedi srl vs detail
+2022-04-20 15:25:42.210633 :  cena adult sedi srl vs detail
+2022-04-20 15:25:42.234625 : 16
+2022-04-20 15:25:42.234625 : 17
+2022-04-20 15:25:42.234625 : |||||HOTEL CISLO|||||||
+2022-04-20 15:25:42.234625 : 17
+2022-04-20 15:25:42.234625 : 17
+2022-04-20 15:25:42.234625 : 17
+2022-04-20 15:25:42.382577 : 572 €
+2022-04-20 15:26:10.625600 : nenasle se exponea banner
+2022-04-20 15:26:11.781504 : 572 €
+2022-04-20 15:26:11.781504 : pokoje sedi srl vs detail
+2022-04-20 15:26:11.781504 : stravy sedi srl vs detail
+2022-04-20 15:26:11.781504 : ceny all sedi srl vs detail
+2022-04-20 15:26:11.781504 :  cena adult sedi srl vs detail
+2022-04-20 15:26:11.814165 : 17
+2022-04-20 15:26:11.814165 : 18
+2022-04-20 15:26:11.814165 : |||||HOTEL CISLO|||||||
+2022-04-20 15:26:11.814165 : 18
+2022-04-20 15:26:11.814165 : 18
+2022-04-20 15:26:11.814165 : 18
+2022-04-20 15:26:11.963821 : 597 €
+2022-04-20 15:26:40.233850 : nenasle se exponea banner
+2022-04-20 15:26:41.397643 : 597 €
+2022-04-20 15:26:41.397643 : pokoje sedi srl vs detail
+2022-04-20 15:26:41.397643 : stravy sedi srl vs detail
+2022-04-20 15:26:41.397643 : ceny all sedi srl vs detail
+2022-04-20 15:26:41.397643 :  cena adult sedi srl vs detail
+2022-04-20 15:26:41.427623 : 18
+2022-04-20 15:26:41.427623 : 19
+2022-04-20 15:26:41.427623 : |||||HOTEL CISLO|||||||
+2022-04-20 15:26:41.427623 : 19
+2022-04-20 15:26:41.427623 : 19
+2022-04-20 15:26:41.427623 : 19
+2022-04-20 15:26:41.588570 : 592 €
+2022-04-20 15:27:10.233498 : nenasle se exponea banner
+2022-04-20 15:27:11.388834 : 592 €
+2022-04-20 15:27:11.388834 : pokoje sedi srl vs detail
+2022-04-20 15:27:11.388834 : stravy sedi srl vs detail
+2022-04-20 15:27:11.388834 : ceny all sedi srl vs detail
+2022-04-20 15:27:11.388834 :  cena adult sedi srl vs detail
+2022-04-20 15:27:11.425823 : 19
+2022-04-20 15:27:11.425823 : 20
+2022-04-20 15:27:11.425823 : |||||HOTEL CISLO|||||||
+2022-04-20 15:27:11.425823 : 20
+2022-04-20 15:27:11.425823 : 20
+2022-04-20 15:27:11.425823 : 20
+2022-04-20 15:27:11.603695 : 617 €
+2022-04-20 15:27:40.437552 : nenasle se exponea banner
+2022-04-20 15:27:41.557564 : 617 €
+2022-04-20 15:27:41.557564 : pokoje sedi srl vs detail
+2022-04-20 15:27:41.557564 : stravy sedi srl vs detail
+2022-04-20 15:27:41.557564 : ceny all sedi srl vs detail
+2022-04-20 15:27:41.557564 :  cena adult sedi srl vs detail
+2022-04-20 15:27:41.586554 : 20
+2022-04-20 15:27:41.586554 : 21
+2022-04-20 15:27:44.250681 : 
+                             
+                             
+2022-04-20 15:27:44.250681 : ====== WebDriver manager ======
+                             
+2022-04-20 15:27:44.281089 : Current google-chrome version is 100.0.4896
+                             
+2022-04-20 15:27:44.281089 : Get LATEST chromedriver version for 100.0.4896 google-chrome
+                             
+2022-04-20 15:27:44.376339 : Driver [C:\Users\KDK\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+                             
+2022-04-20 15:27:53.215573 : <selenium.webdriver.remote.webelement.WebElement (session="da1f4c777dac348b60a5cc2f68be5b31", element="9bf256c2-b5b0-4a7b-a4a4-42acacc2246d")>
+2022-04-20 15:27:53.624441 : True
+2022-04-20 15:27:53.668427 : True
+2022-04-20 15:27:53.675425 : True
+2022-04-20 15:27:53.683422 : True
+2022-04-20 15:27:53.691420 : True
+2022-04-20 15:27:53.810382 : True
+2022-04-20 15:27:53.819379 : True
+2022-04-20 15:27:53.830375 : True
+2022-04-20 15:27:53.837373 : True
+2022-04-20 15:27:53.850369 : True
+2022-04-20 15:27:53.861365 : True
+2022-04-20 15:27:53.871363 : True
+2022-04-20 15:27:53.938341 : True
+2022-04-20 15:27:53.948337 : True
+2022-04-20 15:27:53.955336 : True
+2022-04-20 15:27:53.963332 : True
+2022-04-20 15:27:53.970330 : True
+2022-04-20 15:27:53.978328 : True
+2022-04-20 15:27:53.985326 : True
+2022-04-20 15:27:53.992323 : True
+2022-04-20 15:27:54.054303 : True
+2022-04-20 15:27:54.062301 : True
+2022-04-20 15:27:54.069299 : True
+2022-04-20 15:27:54.078296 : True
+2022-04-20 15:27:54.085294 : True
+2022-04-20 15:27:54.094291 : True
+2022-04-20 15:27:54.102287 : True
+2022-04-20 15:27:54.109286 : True
+2022-04-20 15:27:54.117284 : True
+2022-04-20 15:27:54.125280 : True
+2022-04-20 15:27:54.134278 : True
+2022-04-20 15:27:54.142275 : True
+2022-04-20 15:27:54.151272 : True
+2022-04-20 15:27:54.160269 : True
+2022-04-20 15:27:54.168267 : True
+2022-04-20 15:27:54.178264 : True
+2022-04-20 15:27:54.187261 : True
+2022-04-20 15:27:54.199258 : True
+2022-04-20 15:27:54.207255 : True
+2022-04-20 15:27:54.215252 : True
+2022-04-20 15:27:54.266235 : ceny
+2022-04-20 15:27:54.273237 : ceny
+2022-04-20 15:27:54.280235 : ceny
+2022-04-20 15:27:54.288233 : ceny
+2022-04-20 15:27:54.295230 : ceny
+2022-04-20 15:27:54.303228 : ceny
+2022-04-20 15:27:54.310225 : ceny
+2022-04-20 15:27:54.318222 : ceny
+2022-04-20 15:27:54.325220 : ceny
+2022-04-20 15:27:54.332218 : ceny
+2022-04-20 15:27:54.340216 : ceny
+2022-04-20 15:27:54.347214 : ceny
+2022-04-20 15:27:54.355212 : ceny
+2022-04-20 15:27:54.362209 : ceny
+2022-04-20 15:27:54.369399 : ceny
+2022-04-20 15:27:54.377390 : ceny
+2022-04-20 15:27:54.384388 : ceny
+2022-04-20 15:27:54.392385 : ceny
+2022-04-20 15:27:54.400382 : ceny
+2022-04-20 15:27:54.407380 : ceny
+2022-04-20 15:27:54.415378 : ceny
+2022-04-20 15:27:54.424393 : ceny
+2022-04-20 15:27:54.432372 : ceny
+2022-04-20 15:27:54.440370 : ceny
+2022-04-20 15:27:54.447367 : ceny
+2022-04-20 15:27:54.455365 : ceny
+2022-04-20 15:27:54.463362 : ceny
+2022-04-20 15:27:54.470360 : ceny
+2022-04-20 15:27:54.478358 : ceny
+2022-04-20 15:27:54.485356 : ceny
+2022-04-20 15:27:54.494353 : ceny
+2022-04-20 15:27:54.501350 : ceny
+2022-04-20 15:27:54.509347 : ceny
+2022-04-20 15:27:54.517345 : ceny
+2022-04-20 15:27:54.524343 : ceny
+2022-04-20 15:27:54.532340 : ceny
+2022-04-20 15:27:54.539338 : ceny
+2022-04-20 15:27:54.547335 : ceny
+2022-04-20 15:27:54.554333 : ceny
+2022-04-20 15:27:54.562330 : ceny
